@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "bbf5",
+      "title": "study",
+      "description": "Complete web design assignment To-do platform using json-server.",
+      "category": "school",
+      "dueDate": "2025-12-24",
+      "completed": false
+    },
+    {
+      "id": "3ddd",
+      "title": "HCI assignment",
+      "description": "",
+      "category": "School",
+      "dueDate": "2025-12-26",
+      "completed": false
+    },
+    {
+      "id": "36fc",
+      "title": "HCI assignment",
+      "description": "",
+      "category": "School",
+      "dueDate": "2025-12-26",
+      "completed": false
+    }
+  ]
+}
